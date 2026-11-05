@@ -1,0 +1,6 @@
+{
+  "name": "Ammu's Birthday Surprise",
+  "description": "A romantic cinematic birthday surprise web application for Ammu with emotional storytelling, music, and interactive surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
